@@ -10,5 +10,5 @@ this project has been on hold and is only on here for archiving
 - c: to step the clock
 - m: to dump memory
 
-the instruction set loosely RISC based, it's very incomplete and can only handle arithmatic operations.
+the instruction set is loosely RISC based, it's very incomplete and can only handle arithmatic operations.
 
